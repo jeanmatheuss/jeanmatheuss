@@ -26,3 +26,7 @@ Físico em transição de carreira para área de dados, curioso e sempre querend
 - <a href="https://github.com/jeanmatheuss/jean-FreeCodeCamp">Projetos que realizei na FreeCodeCamp</a>
 - <a href="https://github.com/jeanmatheuss/jean-EBAC-Python">Primeiro projeto em python realizado na EBAC</a>
 - <a href="https://github.com/jeanmatheuss/jean-EBAC-SQL">Projeto de SQL realizado na EBAC</a>
+
+### E aqui alguns dos projetos que estou fazendo no momento:
+
+- <a href="https://github.com/jeanmatheuss/GPU-stocks-price">Análise das ações das 5 principais empresas de GPU</a>
