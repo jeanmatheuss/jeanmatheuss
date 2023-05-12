@@ -28,6 +28,7 @@ Físico em transição de carreira para área de dados, curioso e sempre querend
 - <a href="https://github.com/jeanmatheuss/Coursera-DATA-python">Tarefas do curso "Introduction to Data Science in Python" da University of Michigan</a>
 - <a href="https://github.com/jeanmatheuss/jean-EBAC-Python">Primeiro projeto em python realizado na EBAC</a>
 - <a href="https://github.com/jeanmatheuss/jean-EBAC-SQL">Segundo projeto de SQL realizado na EBAC</a>
+- <a href="https://github.com/jeanmatheuss/EBAC-project2/tree/main">Terceiro projeto de python e dashboard realizado na EBAC</a>
 
 
 ### E aqui alguns dos projetos que estou fazendo no momento:
