@@ -34,3 +34,4 @@ Físico em transição de carreira para área de dados, curioso e sempre querend
 ### E aqui alguns dos projetos que estou fazendo no momento:
 
 - <a href="https://github.com/jeanmatheuss/GPU-stocks-price">Análise das ações das 5 principais empresas de GPU</a>
+- <a href="https://github.com/jeanmatheuss/analise-clientes">Análise do perfil de clientes de um banco</a>
