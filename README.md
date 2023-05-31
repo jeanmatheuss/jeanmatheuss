@@ -1,5 +1,9 @@
-### Jean Matheus, olá (:
-Físico em transição de carreira para área de dados, curioso e sempre querendo aprender algo novo. Já fui professor (amo ensinar), já estudei sobre mercado financeiro e agora procurando uma vaga como Analista de Dados.
+## Jean Matheus (:
+
+Olá! Seja bem-vindo ao meu portfólio de projetos na área de análise de dados. Aqui você encontrará uma coleção dos projetos que desenvolvi ao longo da minha jornada, enquanto estou em transição para uma carreira na área de análise de dados.
+
+### Sobre Mim
+Físico em transição de carreira para área de dados, curioso e sempre querendo aprender algo novo. Já fui professor de física (amo ensinar), já estudei sobre mercado financeiro e agora busco aplicar minhas habilidades analíticas e conhecimentos técnicos para extrair insights valiosos a partir dos dados.
 
 - 👨‍🎓 Formado em Física
 - 🏋️‍♂️ Viciado em **CrossFit**
@@ -13,6 +17,14 @@ Físico em transição de carreira para área de dados, curioso e sempre querend
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
  <img width="65" height="40" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
+
+---
+
+### Objetivo
+
+O objetivo deste repositório é documentar e compartilhar minha jornada na área de análise de dados, enquanto estou em transição para essa carreira. Este portfólio serve como uma vitrine dos projetos que desenvolvi, demonstrando minhas habilidades analíticas e conhecimentos técnicos.
+
+Além disso, busco conectar-me com profissionais e recrutadores da área, mostrando meu interesse e comprometimento com a análise de dados. Estou aberto a oportunidades desafiadoras, onde posso aplicar, explorar e extrair insights valiosos dos dados.
 
 ---
 
