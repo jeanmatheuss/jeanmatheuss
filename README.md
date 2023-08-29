@@ -41,9 +41,11 @@ Além disso, busco conectar-me com profissionais e recrutadores da área, mostra
 - <a href="https://github.com/jeanmatheuss/jean-EBAC-Python">Primeiro projeto em python realizado na EBAC</a>
 - <a href="https://github.com/jeanmatheuss/jean-EBAC-SQL">Segundo projeto de SQL realizado na EBAC</a>
 - <a href="https://github.com/jeanmatheuss/EBAC-project2/tree/main">Terceiro projeto de python e dashboard realizado na EBAC</a>
+- <a href="https://github.com/jeanmatheuss/projeto-final-EBAC">Quarto projeto de Pipeline de Dados do Telegram realizado na EBAC</a>
 
 
 ### E aqui alguns dos projetos que estou fazendo no momento:
 
 - <a href="https://github.com/jeanmatheuss/GPU-stocks-price">Análise das ações das 5 principais empresas de GPU</a>
 - <a href="https://github.com/jeanmatheuss/analise-clientes">Análise do perfil de clientes de um banco</a>
+
