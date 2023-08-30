@@ -49,6 +49,7 @@ Além disso, busco conectar-me com profissionais e recrutadores da área, mostra
 - <a href="https://github.com/jeanmatheuss/GPU-stocks-price">Análise das ações das 5 principais empresas de GPU</a>
 - <a href="https://github.com/jeanmatheuss/analise-clientes">Análise do perfil de clientes de um banco</a>
 
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanmatheuss&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeanmatheuss&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
