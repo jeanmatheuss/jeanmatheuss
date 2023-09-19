@@ -38,10 +38,10 @@ Além disso, busco conectar-me com profissionais e recrutadores da área, mostra
 
 - <a href="https://github.com/jeanmatheuss/jean-FreeCodeCamp">Projetos do curso "Data Analysis with Python" - FreeCodeCamp</a>
 - <a href="https://github.com/jeanmatheuss/Coursera-DATA-python">Tarefas do curso "Introduction to Data Science in Python" - University of Michigan</a>
-- <a href="https://github.com/jeanmatheuss/jean-EBAC-Python">Primeiro projeto: Análise Exploratória de Dados de Logística  - EBAC</a>
-- <a href="https://github.com/jeanmatheuss/jean-EBAC-SQL">Segundo projeto: Análise de Dados de crédito com SQL - EBAC</a>
-- <a href="https://github.com/jeanmatheuss/EBAC-project2/tree/main">Terceiro projeto: Dashboard interativo COVID19 - EBAC</a>
-- <a href="https://github.com/jeanmatheuss/projeto-final-EBAC">Quarto projeto: *Pipeline de Dados do Telegram*  - EBAC</a>
+- <a href="https://github.com/jeanmatheuss/jean-EBAC-Python">1º projeto: Análise Exploratória de Dados de Logística  - EBAC</a>
+- <a href="https://github.com/jeanmatheuss/jean-EBAC-SQL">2º projeto: Análise de Dados de crédito com SQL - EBAC</a>
+- <a href="https://github.com/jeanmatheuss/EBAC-project2/tree/main">3º projeto: Dashboard interativo COVID19 - EBAC</a>
+- <a href="https://github.com/jeanmatheuss/projeto-final-EBAC">4º projeto: *Pipeline de Dados do Telegram*  - EBAC</a>
 
 
 ### E aqui alguns dos projetos que estou fazendo no momento:
