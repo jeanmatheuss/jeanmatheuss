@@ -36,16 +36,16 @@ Além disso, busco conectar-me com profissionais e recrutadores da área, mostra
 
 ### Aqui você verá alguns dos projetos que fiz:
 
-- <a href="https://github.com/jeanmatheuss/jean-FreeCodeCamp">Projetos do curso "Data Analysis with Python" da FreeCodeCamp</a>
-- <a href="https://github.com/jeanmatheuss/Coursera-DATA-python">Tarefas do curso "Introduction to Data Science in Python" da University of Michigan</a>
-- <a href="https://github.com/jeanmatheuss/jean-EBAC-Python">Primeiro projeto em python realizado na EBAC</a>
-- <a href="https://github.com/jeanmatheuss/jean-EBAC-SQL">Segundo projeto de SQL realizado na EBAC</a>
-- <a href="https://github.com/jeanmatheuss/EBAC-project2/tree/main">Terceiro projeto de python e dashboard realizado na EBAC</a>
-- <a href="https://github.com/jeanmatheuss/projeto-final-EBAC">Quarto projeto de Pipeline de Dados do Telegram realizado na EBAC</a>
+- <a href="https://github.com/jeanmatheuss/jean-FreeCodeCamp">Projetos do curso "Data Analysis with Python" - FreeCodeCamp</a>
+- <a href="https://github.com/jeanmatheuss/Coursera-DATA-python">Tarefas do curso "Introduction to Data Science in Python" - University of Michigan</a>
+- <a href="https://github.com/jeanmatheuss/jean-EBAC-Python">Primeiro projeto: Análise Exploratória de Dados de Logística  - EBAC</a>
+- <a href="https://github.com/jeanmatheuss/jean-EBAC-SQL">Segundo projeto: Análise de Dados de crédito com SQL - EBAC</a>
+- <a href="https://github.com/jeanmatheuss/EBAC-project2/tree/main">Terceiro projeto: Dashboard interativo COVID19 - EBAC</a>
+- <a href="https://github.com/jeanmatheuss/projeto-final-EBAC">Quarto projeto: *Pipeline de Dados do Telegram*  - EBAC</a>
 
 
 ### E aqui alguns dos projetos que estou fazendo no momento:
-
+- <a href="https://github.com/jeanmatheuss/SB-2023-python">Explorando IA Generativa em Pipeline de ETL com Python - Bootcamp Santander 23</a>
 - <a href="https://github.com/jeanmatheuss/GPU-stocks-price">Análise das ações das 5 principais empresas de GPU</a>
 - <a href="https://github.com/jeanmatheuss/analise-clientes">Análise do perfil de clientes de um banco</a>
 
