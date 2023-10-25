@@ -3,7 +3,7 @@
 Olá! Seja bem-vindo ao meu portfólio de projetos na área de análise de dados. Aqui você encontrará uma coleção dos projetos que desenvolvi ao longo da minha jornada, enquanto estou em transição para uma carreira na área de análise de dados.
 
 ### Sobre Mim
-Físico em transição de carreira para área de dados, curioso e sempre querendo aprender algo novo. Já fui professor de física (amo ensinar), já estudei sobre mercado financeiro e agora busco aplicar minhas habilidades analíticas e conhecimentos técnicos para extrair insights valiosos a partir dos dados.
+Físico em transição de carreira para área de dados, curioso e sempre querendo aprender algo novo. Já fui professor de física (amo ensinar), já estudei sobre mercado financeiro e apliquei os estudos no Day Trade, e agora busco aplicar minhas habilidades analíticas e conhecimentos técnicos para extrair insights valiosos a partir dos dados.
 
 - 👨‍🎓 Formado em Física
 - 🏋️‍♂️ Viciado em **CrossFit**
