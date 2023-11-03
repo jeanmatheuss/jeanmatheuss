@@ -34,20 +34,43 @@ Além disso, busco conectar-me com profissionais e recrutadores da área, mostra
 
 ---
 
-### Aqui você verá alguns dos projetos que fiz:
+### Projetos em destaque:
+- <a href="https://github.com/jeanmatheuss/jean-EBAC-Python">Análise Exploratória de Dados de Logística - Python</a>
+- <a href="https://github.com/jeanmatheuss/projeto-final-EBAC">*Pipeline de Dados do Telegram integrado ao AWS* - Python & AWS</a>
+- <a href="https://github.com/jeanmatheuss/SB-2023-python">Explorando IA Generativa em Pipeline de ETL com Python - Python</a>
+- <a href="https://github.com/jeanmatheuss/SB-2023-PowerBi">Relatório de Vendas Elegante - Power BI</a>
 
-- <a href="https://github.com/jeanmatheuss/jean-FreeCodeCamp">Projetos do curso "Data Analysis with Python" - FreeCodeCamp</a>
-- <a href="https://github.com/jeanmatheuss/Coursera-DATA-python">Tarefas do curso "Introduction to Data Science in Python" - University of Michigan</a>
-- <a href="https://github.com/jeanmatheuss/jean-EBAC-Python">1º projeto: Análise Exploratória de Dados de Logística  - EBAC</a>
-- <a href="https://github.com/jeanmatheuss/jean-EBAC-SQL">2º projeto: Análise de Dados de crédito com SQL - EBAC</a>
-- <a href="https://github.com/jeanmatheuss/EBAC-project2/tree/main">3º projeto: Dashboard interativo COVID19 - EBAC</a>
-- <a href="https://github.com/jeanmatheuss/projeto-final-EBAC">4º projeto: *Pipeline de Dados do Telegram*  - EBAC</a>
+---
 
+### Projetos que estou trabalhando no momento:
 
-### E aqui alguns dos projetos que estou fazendo no momento:
-- <a href="https://github.com/jeanmatheuss/SB-2023-python">Explorando IA Generativa em Pipeline de ETL com Python - Bootcamp Santander 23</a>
-- <a href="https://github.com/jeanmatheuss/GPU-stocks-price">Análise das ações das 5 principais empresas de GPU</a>
-- <a href="https://github.com/jeanmatheuss/analise-clientes">Análise do perfil de clientes de um banco</a>
+- <a href="https://github.com/jeanmatheuss/GPU-stocks-price">Análise das ações das 5 principais empresas de GPU - Python</a>
+- <a href="https://github.com/jeanmatheuss/API-youtube">Explorando o Top 10 de Vídeos em Alta com a API do YouTube - Python</a>
+
+---
+
+### Outros projetos:
+<details>
+<summary>Python</summary>
+ 
+- <a href="https://github.com/jeanmatheuss/jean-FreeCodeCamp">Projetos do curso "Data Analysis with Python" - FreeCodeCamp</a>  
+- <a href="https://github.com/jeanmatheuss/Coursera-DATA-python">Tarefas do curso "Introduction to Data Science in Python" - University of Michigan</a>  
+- <a href="https://github.com/jeanmatheuss/analise-clientes">Análise do perfil de clientes de um banco - Python</a> 
+
+</details>
+<details>
+<summary>SQL</summary>
+ 
+- <a href="https://github.com/jeanmatheuss/jean-EBAC-SQL">Análise de Dados de crédito com SQL - SQL</a>
+
+</details>
+<details>
+<summary>Dashboard</summary>
+ 
+- <a href="https://github.com/jeanmatheuss/EBAC-project2/tree/main">Dashboard interativo COVID19 - Python & Looker Studio</a>
+- <a href="https://github.com/jeanmatheuss/SB-2023-powerbi2">Relatório do quadro de funcionários e projetos - Power BI & Azure</a>
+
+</details>
 
 ---
 
