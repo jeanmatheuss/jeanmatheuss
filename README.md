@@ -69,7 +69,7 @@ Além disso, busco conectar-me com profissionais e recrutadores da área, mostra
  
 - <a href="https://github.com/jeanmatheuss/EBAC-project2/tree/main">Dashboard interativo COVID19 - Python & Looker Studio</a>
 - <a href="https://github.com/jeanmatheuss/SB-2023-powerbi2">Relatório do quadro de funcionários e projetos - Power BI & Azure</a>
-- <a href="https://github.com/jeanmatheuss/profit-report">Relatório de vendas e receita - Power BI</a>
+- <a href="https://github.com/jeanmatheuss/profit-report">Relatório interativo de receita - Power BI</a>
 
 
 </details>
