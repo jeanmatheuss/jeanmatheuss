@@ -39,6 +39,7 @@ Além disso, busco conectar-me com profissionais e recrutadores da área, mostra
 - <a href="https://github.com/jeanmatheuss/projeto-final-EBAC">*Pipeline de Dados do Telegram integrado ao AWS* - Python & AWS</a>
 - <a href="https://github.com/jeanmatheuss/SB-2023-python">Explorando IA Generativa em Pipeline de ETL com Python - Python</a>
 - <a href="https://github.com/jeanmatheuss/SB-2023-PowerBi">Relatório de Vendas Elegante - Power BI</a>
+- <a href="https://github.com/jeanmatheuss/api-sheets">Integração Python com Google Sheets</a>
 
 ---
 
